@@ -61,7 +61,6 @@ mhwd-tui
 manjaro-alsa
 manjaro-artwork
 manjaro-browser-settings
-manjaro-hotfixes
 manjaro-pulse
 manjaro-settings-manager-notifier
 manjaro-hello
@@ -135,7 +134,6 @@ yelp
 >extra gtk3-print-backends
 >openrc alsa-utils-openrc
 >openrc avahi-openrc
->openrc elogind-openrc
 >openrc openrc-settingsd
 >openrc cronjobs
 >openrc displaymanager-openrc

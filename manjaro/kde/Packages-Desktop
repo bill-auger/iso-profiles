@@ -306,8 +306,6 @@ xdg-utils
 xdg-su
 
 ## Misc
-manjaro-hotfixes
->openrc elogind-openrc
 >openrc openrc-settingsd
 >openrc displaymanager-openrc
 >openrc accountsservice-elogind

@@ -35,7 +35,7 @@ gnome-tweak-tool
 gnome-user-docs
 gnome-user-share
 gnome-wallpapers
-#gnome-screensaver #if use lightdm we need a screensaver 
+#gnome-screensaver #if use lightdm we need a screensaver
 #gnome-initial-setup
 >extra gnome-calendar
 >extra bijiben
@@ -71,7 +71,6 @@ manjaro-wallpapers-17.0
 manjaro-browser-settings
 manjaro-settings-manager-notifier
 manjaro-gnome-settings
-manjaro-hotfixes
 manjaro-pulse
 manjaro-hello
 mesa-demos

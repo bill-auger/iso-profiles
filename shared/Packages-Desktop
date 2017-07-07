@@ -5,7 +5,6 @@
 alsa-firmware
 dmidecode
 inxi
-manjaro-hotfixes
 mesa-demos
 mobile-broadband-provider-info
 modemmanager
@@ -14,7 +13,6 @@ nss-mdns
 numlockx
 >openrc alsa-utils-openrc
 >openrc avahi-openrc
->openrc elogind-openrc
 >openrc openrc-settingsd
 >openrc displaymanager-openrc
 >openrc networkmanager-openrc

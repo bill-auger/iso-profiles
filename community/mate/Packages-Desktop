@@ -55,7 +55,6 @@ manjaro-alsa
 manjaro-artwork
 manjaro-browser-settings
 manjaro-mate-settings
-manjaro-hotfixes
 manjaro-pulse
 manjaro-settings-manager-notifier
 manjaro-hello
@@ -74,7 +73,6 @@ nss-mdns
 numlockx
 >openrc alsa-utils-openrc
 >openrc avahi-openrc
->openrc elogind-openrc
 >openrc openrc-settingsd
 >openrc displaymanager-openrc
 >openrc networkmanager-openrc
